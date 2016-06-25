@@ -53,4 +53,5 @@ Things to do next:
 small project ideas:
 1. open source resharper for c#re
 2. open source seacrch (like teabox win + o), in electron, and node.
+3. Create the books website
 
