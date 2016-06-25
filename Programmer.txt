@@ -1,0 +1,56 @@
+Some philosophies to always be inspired from:
+	1. Life is unpredictable, and anything could happen at anytime: This anything need not be logical at all, its more like that the universe wants that thing to happen to you, thus every thing happens at the right time. 
+	For e.g. 
+		1. in 2014 when I was going to Paris and when vaishvik went to new castle, I had a coversation with Shankar. His tone clearly had feeling of being unrecognized as we both joined Ubi much after him,and still we were sent abroad much before him. But now, since the life is so unpredictable, he is also going to Paris in very near future.
+		2. Shankar was always like ki he cant find any girl because of his physique, so he started working on improving his physique, and out of no where he has almost got a girl, who is really hot and beautiful, outside India in Romania. That is kind of a miracle.
+		
+	So you dont know what life has in store for you, where you might be in next moment. So, there is no point in being frustrated and sad about your present situation. Everything in life is temporary and is bound to change and that change will happen at the right time, if you really want it to happen. SO, just be happy about everything that you are
+
+	2. This point stems from the first one. There are many times that where you compare yourself to others, inspite of the fact that you know it is wrong to do so. But today i have realized the right reason why you should not do it. Life is unpredictatble and in a moment life can put you in the driving seat of lamborgini and in another it can throw you down to ground from sky, and you will never have control over anything other than yourself. So, when you compare youself to someone and think that you dont have what he/she has, you never know that what life will put you into next, so your best bet is to be hopeful and keep working happily in all the things that you like. So, there is no point in comparing. 
+
+	3. Just be very happy, and enthusiastic. and when ever you feel low, think about the the life example of Shanker.
+	
+	4. You are often disturbed and nothing at all makes sense, there is all negativity around. But you got to control yourself and just hang on to that slightest possible ray of positivity. Calm down and focus on what to do. If nothing comes to your mind then read some novel or do something that you wont otherwise do.
+
+who is a good programmer:
+1. who can work on anything
+2. pick up things easily and fast
+3. have worked a lot on a lot of different projects 
+4. knows and have worked with people bteer than him/her self
+5. who have been through the tuff process of change
+6. ever enthusisastic about learning new things, but never leaves anything in middle
+
+Things to take care of daliy:
+1. Read and adapt to better coding practises
+2. keep your technology stack razor sharp., do not let anything slip by.
+
+
+what i am 3 years from now:- 
+1. contributing heavily in the open source community
+2. amazing full stack developer
+3. very good system architect
+4. proficient with assembly language programming and system level designing
+5. good with functional programming languages and their philosophy.
+
+Things done so far
+1. nodejs
+2. basic todo app using MEAN stack
+3. found an opensource project to contribute to
+4. HTML DOM tutorial
+5. revised Javascript, and Jquery
+6. Angular tutorial
+7. Read the basics of AJAX.
+
+Things to do next:
+2. Create simple web app with database connectivity
+4. freelancing opportunities in c#
+5. get proficient with MEAN, html, css , js, jquery
+6. start Harami Labs
+7. work in unit testing.
+8. diving into the magic that c# provides. (mef and dependency injection)
+9. dependency injection design pattern (DI)
+
+small project ideas:
+1. open source resharper for c#re
+2. open source seacrch (like teabox win + o), in electron, and node.
+
