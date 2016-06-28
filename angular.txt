@@ -1,0 +1,76 @@
+Angular Dev Notes:
+1. angular prefixes the public objects with $, and private objects with $$. So do not use these to prefix the names of your variables in angular.
+
+2. ng-view is used to display the template of the current route with in the page. So, content on different templates that might be defined on different routes are mapped to a single web page.
+
+3. we can create multiple independent apps, that can be plgued into any web page.
+
+4. An App is basically a combination of one or many : {
+												Services,
+												controllers,
+												modules
+												}
+	Though an app will have only one Module.															
+
+5.	Fit for CRUD ( create, read, usability, Delete ) applications.
+
+6. angular presents a higher level of abstraction to the developers.
+
+7. Model : actual data that is shown to the user.
+
+8. Scope : context where the model is stored so that the controllers, directives, and expressions can access it
+
+9. Expressions : access variables and functions from the scope
+
+10. Compiler :  parses the template and instantiates directives and expressions
+
+11. View : the actual web page that the users see
+
+12. Controller :  the business logic behind the view.
+
+13. Module : a container for the different parts of the app, including controller, services, filters, directives.
+
+14. Services : view independent business logic
+
+15. DI (dependency injection): It is a software design pattern, that deals with how the objects and functions are created and how they get hold of their dependencies.
+
+16. To use DI, there needs to be a place where all the things that should work together are registered. MODULES, does this job. When angular starts it will use the name of the module defined by the ng-app directive, includung the configuration of the all the other modules that this module depends on. 
+
+17. View in angular is the projection of the model, as a result controller is completely seperated from the view and unaware of it. This makes controller testing isolated without view and realted DOM/ browser dependency
+
+18. controller should have only the business logic needed for a single view.
+
+19. Services are used in the controllers via depenency injection.
+
+20. * use unit testing a lot, it is as important as writing production code.
+
+21. Only one angular app can auto bootstraped per HTML document, to run multiple apps in a html document you have to manually bootstrap them, using angular.bootstrap().
+
+22. Like other core Angular identifiers, built-in services always start with $.
+
+23. To use the angular sevice you add it as a dependency for the components that depends on the service.
+
+24. Registering a service does not mean to register a service Instance, but it means registering a factory function, which will create a service instance, when it is called. 
+
+25. While creating a service the order of identifiers in the array is the same as the order of arguments names in the factory function.
+For. e.g.
+	batchModule.factory('routeTemplateMonitor', ['$route', 'batchLog', '$rootScope',
+	  function($route, batchLog, $rootScope) {});
+
+26. Other than MODULES, services can be registered to an application with $provide service, in config function.
+	angular.module('myModule', []).config(['$provide', function($provide) {
+	  $provide.factory('serviceId', function() {
+	    var shinyNewServiceInstance;
+	    // factory function body that constructs shinyNewServiceInstance
+	    return shinyNewServiceInstance;
+	  });
+	}]);
+
+27. Both the controllers and the directives have reference to the scope, but not to each other. This isolates the controller from the directive as well as from the DOM. This makes the controller view agnostic, which greatly improves the testing story of the application.
+
+28. Scope and its properties form the data which is used to render the view.
+
+29. Each angular has only one root scope. All the other scopes are descendant scopes of the rooot scope, therefore several child scopes.
+
+30.
+
