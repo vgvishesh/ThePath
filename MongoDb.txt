@@ -1,0 +1,7 @@
+- _id is a 12 byte hexadecimal number which assures the uniqueness of every document. We can provide _id while inserting the document, if we 
+  dont provide then mongoDb provide a unique id for every document.
+  byte division:
+    1. 1st 4 bytes for the current timestamp
+    2. next 3 bytes for machine id
+    3. next 2 for process id of mongodb server
+    4. remaining 3 are just incremental value
