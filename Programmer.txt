@@ -33,24 +33,25 @@ what i am 3 years from now:-
 5. good with functional programming languages and their philosophy.
 
 Things done so far
-1. nodejs
-2. basic todo app using MEAN stack
-3. found an opensource project to contribute to
-4. HTML DOM tutorial
-5. revised Javascript, and Jquery
-6. Angular tutorial
-7. Read the basics of AJAX.
+- nodejs
+- basic todo app using MEAN stack
+- found an opensource project to contribute to
+- HTML DOM tutorial
+- revised Javascript, and Jquery
+- Angular tutorial
+- Read the basics of AJAX.
+- Create simple web app with database connectivity
 
 Things to do next:
-2. Create simple web app with database connectivity
-4. freelancing opportunities in c#
-5. get proficient with MEAN, html, css , js, jquery
-6. start Harami Labs
-7. work in unit testing.
-8. diving into the magic that c# provides. (mef and dependency injection)
-9. dependency injection design pattern (DI)
-10. take an AI course to understand the basics and implement some ideas
-11. start protgramming in go
+- freelancing opportunities in c#
+- get proficient with MEAN, html, css , js, jquery
+- start Harami Labs
+- work in unit testing.
+- diving into the magic that c# provides. (mef and dependency injection)
+- dependency injection design pattern (DI)
+- take an AI course to understand the basics and implement some ideas
+- start protgramming in go
+- differential equations in maths
 
 small project ideas:
 1. open source resharper for c#
