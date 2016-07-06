@@ -41,12 +41,13 @@ Things done so far
 - Angular tutorial
 - Read the basics of AJAX.
 - Create simple web app with database connectivity
+- now quite familier and confotable with MEAN stack.
+- started working in unit tests
 
 Things to do next:
 - freelancing opportunities in c#
 - get proficient with MEAN, html, css , js, jquery
 - start Harami Labs
-- work in unit testing.
 - diving into the magic that c# provides. (mef and dependency injection)
 - dependency injection design pattern (DI)
 - take an AI course to understand the basics and implement some ideas
