@@ -16,7 +16,7 @@ who is a good programmer:
 1. who can work on anything
 2. pick up things easily and fast
 3. have worked a lot on a lot of different projects 
-4. knows and have worked with people bteer than him/her self
+4. knows and have worked with people better than him/her self
 5. who have been through the tuff process of change
 6. ever enthusisastic about learning new things, but never leaves anything in middle
 
@@ -43,6 +43,7 @@ Things done so far
 - Create simple web app with database connectivity
 - now quite familier and confotable with MEAN stack.
 - started working in unit tests
+- started prpgramming on free code camp.
 
 Things to do next:
 - freelancing opportunities in c#
