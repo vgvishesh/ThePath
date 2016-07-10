@@ -58,6 +58,8 @@ Things to do next:
 - take an AI course to understand the basics and implement some ideas
 - start protgramming in go
 - differential equations in maths
+- start playing video games.
+- start coming up with the ideas of creating new games, something like, putting what you think about this world, your thoughts in a game. In order to bring ideas to life, start experimenting with Unity.
 
 small project ideas:
 1. open source resharper for c#
