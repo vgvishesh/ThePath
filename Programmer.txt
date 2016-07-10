@@ -24,6 +24,9 @@ Things to take care of daliy:
 1. Read and adapt to better coding practises
 2. keep your technology stack razor sharp., do not let anything slip by.
 
+How to reach the master/expert level in programming:
+1. lets follow 10000 hour rule. I code for daily for like 7 + 3 = 10 hours. Going at this pace should take us 1000 days, almost 3 years to get to that point. But make sure you are learning every day and every day is challenging.
+- this one is reltated but a little offtrack. Like if we follow the same rule then, 2 hours per day of music practise can make be an expert musician in 13 years. Which from now on would be a good thing to have when i reach the age of 38 (master in 2 very different things, that would be pretty cool stuff to do).
 
 what i am 3 years from now:- 
 1. contributing heavily in the open source community
