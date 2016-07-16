@@ -65,4 +65,4 @@ small project ideas:
 1. open source resharper for c#
 2. open source seacrch (like teabox win + o), in electron, and node.
 3. Create the books website
-
+4. create an app where people in the neighbourhood can find other people to form the play groups. 
