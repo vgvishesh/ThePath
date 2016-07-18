@@ -48,6 +48,7 @@ Things done so far
 - now quite familier and confotable with MEAN stack.
 - started working in unit tests
 - started prpgramming on free code camp.
+- started reading about the system programming, from Donovan.
 
 Things to do next:
 - freelancing opportunities in c#
@@ -60,6 +61,7 @@ Things to do next:
 - differential equations in maths
 - start playing video games.
 - start coming up with the ideas of creating new games, something like, putting what you think about this world, your thoughts in a game. In order to bring ideas to life, start experimenting with Unity.
+- start mathematical analysis of algorithms
 
 small project ideas:
 1. open source resharper for c#
