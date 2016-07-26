@@ -62,6 +62,7 @@ Things to do next:
 - start playing video games.
 - start coming up with the ideas of creating new games, something like, putting what you think about this world, your thoughts in a game. In order to bring ideas to life, start experimenting with Unity.
 - start mathematical analysis of algorithms
+- stop using windows, and start using linux
 
 small project ideas:
 1. open source resharper for c#
