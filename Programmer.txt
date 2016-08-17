@@ -71,3 +71,4 @@ small project ideas:
 3. Create the books website
 4. create an app where people in the neighbourhood can find other people to form the play groups. 
 5. Create a runtime state machine state logger. in c#
+6. Do c++/assembly level implementations of the new design patterns in Javascript, or any other language.
