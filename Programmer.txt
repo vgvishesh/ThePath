@@ -53,6 +53,7 @@ Things done so far
 - started using ubuntu
 - started playing games, finished child of light. Started plating AC chronicles India.
 - finished the basic level of the books website.
+- started at hacker rank
 
 Things to do next:
 - freelancing opportunities in c#
@@ -64,6 +65,8 @@ Things to do next:
 - differential equations in maths
 - start coming up with the ideas of creating new games, something like, putting what you think about this world, your thoughts in a game. In order to bring ideas to life, start experimenting with Unity.
 - start mathematical analysis of algorithms
+- program drivers on linux
+
 
 small project ideas:
 1. open source resharper for c#
